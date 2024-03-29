@@ -1,2 +1,2 @@
 # kon
-##test
+##example of README.md
